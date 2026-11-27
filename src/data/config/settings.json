@@ -1,0 +1,5 @@
+{
+  "plugins": {
+    "linkedWingCombatPlugin": "data.scripts.LinkedWingPlugin"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "id": "linkedwing",
+    "name": "LinkedWing",
+    "author": "drayze + basalt",
+    "version": "0.1.0",
+    "description": "Your AI wingmate. Tag any hull with the LinkedWing hullmod and an LLM co-pilot flies it in battle (floating-text questions you can answer with number keys). F1 cycles authority: autopilot / AI wing / fleet command.",
+    "gameVersion": "0.98.5a-RC7",
+    "compatibilityNotes": "Tested against 0.98.5a builds; Java 17 bytecode.",
+    "jars": [
+        "jars/LinkedWing.jar"
+    ],
+    "modPlugin": "data.scripts.LinkedWingCampaignPlugin"
+}
